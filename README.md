@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there !!!
 
-<!--
-**dmnlfrkn/dmnlfrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**dmnlfrkn/dmnlfrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I'm looking for internship opportunities.
+- 🔭 I’m currently working to become a Full Stack Developer
+- 🌱 I’m currently learning React.js
+
+## :mailbox: How to reach me :
+[<img target="_blank" src="https://img.icons8.com/fluent/50/000000/mail.png"/>](mailto:dmnlfrkn@hotmail.com)
+[<img target="_blank" src="https://img.icons8.com/fluent/50/000000/linkedin.png"/>](https://www.linkedin.com/in/dmnlfrkn/)
+[<img target="_blank" src="https://img.icons8.com/fluent/50/000000/twitter.png"/>](https://twitter.com/dmnlfrkn/)
