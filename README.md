@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Graduation Project about a Cloud Systems.
   - 🔧 I learned Docker for my Graduation Project. ✔️
-  - ☸️ I'm currently learning Kubernetes.
-  - ☁️ I will learn Openstack for Cloud Computing Infrastructure
-  - 🧱 I will deploy a modern cloud platform with using this technologies.
+  - ☸️ I can say that I learned Kubernetes. ✔️
+  - ☁️ I try to learn Openstack and Kubernetes for using in Openstack. 🔧
+  - 🧱 If It wokrs, I will deploy a web page and database service to Openstack with using these technologies.
 - 💻 I am also interested in Web development
   - ☊ I took some class and courses about fullstack developer.
   - ⚛️ I try to write some codes about React.js
