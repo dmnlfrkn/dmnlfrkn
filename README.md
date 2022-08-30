@@ -5,8 +5,9 @@
 
 
 - 🔭 I’m currently working on Java Spring.
-  - ☕ I learned Java. ✔️
-  - 🖊 I try to learn Spring Framework and Design Pattern and Algorithm for Backend Development. 🔧
+  - ☕ I learned Java and Spring Frmework. ✔️
+  - 🖊 I try to make some projects about Spring 🔧
+  - 🖊 I try to learn Design Pattern and Algorithm for Backend Development. 🔧
 - 💻 I am also interested in Web development and DevOps.
   - 🔧 I learned Docker and Kubernetes for my Graduation Project. ✔️
   - ☊  I took some class and courses about fullstack developer. ✔️
