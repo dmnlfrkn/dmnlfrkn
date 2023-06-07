@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on Java and Spring Frmework.
-       - 🖊 I try to make some projects about Spring 🔧
-       - 🖊 I try to learn Design Pattern and Algorithm for Backend Development. 🔧
+   - 🖊 I try to make some projects about Spring 🔧
+   - 🖊 I try to learn Design Pattern and Algorithm for Backend Development. 🔧
   
   
   
