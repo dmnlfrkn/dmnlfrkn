@@ -4,19 +4,18 @@
 <!--**dmnlfrkn/dmnlfrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- 🔭 I’m currently working on microservice architecture.
-   - ☕ I keep learning DevOps. ✔️
-   - 🔧 I learned Docker and Kubernetes for my Graduation Project. ✔️
-   - 🖊 I try to learn
-      - Linux
-      - Network
-      - Ansible
-      - necessary tools and languages for DevOps. 🔧🔧
-  
-  
-  
+- 🔭 I’m currently working on DevOps.
+   - ☊  I took some class and courses about Docker and Kubernetes for 
+          my Graduation Project. ✔️
+   - ☊  I keep learning Docker and Kubernetes to improve  my own. 🔧
+   - 🖊 I try to learn:
+        - Linux
+        - Network
+        - Ansible
+        - necessary tools and languages for DevOps. 🔧
+
 - 💻 I am interested in Java and Spring Frmework.
-   - 🖊 I try to make some projects about Spring 🔧
+   - ☕ I keep learning and making some projects about Spring. 🔧
    - 🖊 I try to learn Design Pattern and Algorithm for Backend Development.
 - ☊  I took/take some class and courses about fullstack development. ✔️
   - ⚛️ I tried to write some codes about React.js. ✔️
